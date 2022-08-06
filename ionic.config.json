@@ -1,0 +1,7 @@
+{
+  "name": "Clearthread_Expense",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
